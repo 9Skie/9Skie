@@ -16,9 +16,6 @@ Aspiring to join labs & internships, and documenting the journey through project
   </tr>
 </table>
 
-### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,c,git,docker)](https://skillicons.dev)
-
 ### Links
 <p>
   <a href="https://9skie.github.io/">
