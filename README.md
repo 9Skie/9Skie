@@ -4,7 +4,7 @@ I'm a CS & Art enthusiast, self-teaching through open-source material
 
 Aspiring to join labs & internships, and documenting the journey through projects and experiments.
 
-## GitHub Stats
+### GitHub Stats
 <table>
   <tr>
     <td>
@@ -15,6 +15,9 @@ Aspiring to join labs & internships, and documenting the journey through project
     </td>
   </tr>
 </table>
+
+### Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,c,git,docker)](https://skillicons.dev)
 
 ### Links
 <p>
@@ -31,7 +34,3 @@ Aspiring to join labs & internships, and documenting the journey through project
     <img src="https://img.shields.io/badge/YouTube-9Skie-FF0000?style=flat-square&logo=youtube&logoColor=white" />
   </a>
 </p>
-
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,c,git,docker)](https://skillicons.dev)
-
