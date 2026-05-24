@@ -1,8 +1,6 @@
-# Hi, I'm 9Skie 👋
+I'm a self taught CS & Art student (who LOVES free open source resources), documenting my journey though notes and projects
 
-I'm a self taught CS & Art student, documenting the journey though notes and projects
-
-## GitHub Stats
+### GitHub Stats
 <table>
   <tr>
     <td>
