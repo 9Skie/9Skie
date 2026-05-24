@@ -1,4 +1,4 @@
-I'm interested in CS and Art (and LOVES free open source resources), documenting my journey though notes and projects.
+I'm interested in CS & Art, documenting my journey though notes and projects.
 
 ### GitHub Stats
 <table>
